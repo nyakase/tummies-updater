@@ -1,0 +1,26 @@
+{
+  "name": "tummies-updater",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/nyakase/tummies-updater#readme",
+  "bugs": {
+    "url": "https://github.com/nyakase/tummies-updater/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyakase/tummies-updater.git"
+  },
+  "license": "UNLICENSED",
+  "author": "Nia",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@indiefellas/nekoweb-api": "^1.2.0",
+    "array-shuffle": "^3.0.0",
+    "dotenv": "^16.5.0",
+    "tumblr.js": "^5.0.1"
+  }
+}
